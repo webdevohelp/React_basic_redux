@@ -1,0 +1,7 @@
+[
+    {
+        "id": "1",
+        "title": "React State",
+        "description": [" A state is a JavaScript object. It stores a component’s dynamic data and determines the component’s behavior. In other words, it is the interface between any data of changes (backend or local) and the representation of this data with UI elements in the frontend.", "def"]
+    }
+]
